@@ -1,0 +1,8 @@
+.py > extensão do python
+
+Robot Framework entende métodos python como palavras chave ( keywords )
+Robot Framework é tabular
+
+- Palavras chave embutidas no robot:
+ Log To Console
+ Should Be Equal
