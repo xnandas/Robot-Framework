@@ -1,3 +1,0 @@
-- Executar o teste gerando log:
-
-robot -d .\log 

@@ -1,0 +1,6 @@
+- Executar o teste gerando log:
+
+robot -d .\log 
+
+- Executar apenar um caso de teste:
+robot -d .\log -i <tag> <pasta dos scripts>
